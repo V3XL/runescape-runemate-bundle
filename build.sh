@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t aamillan/runescape-runemate-bundle:latest .
+docker build -t V3XL/runescape-runemate-bundle:latest .
